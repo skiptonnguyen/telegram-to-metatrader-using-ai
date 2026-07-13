@@ -14,8 +14,9 @@ It also provides advanced settings for symbol mapping, risk management, signal c
 
 Signal Copier Bridge is the desktop application that connects your signal sources with your trading platforms. It is also where you configure and manage your automation.
 
-[**Download Signal Copier Bridge**](https://github.com/skiptonnguyen/telegram-to-metatrader-using-ai)
+[**Download Signal Copier Bridge**](https://github.com/skiptonnguyen/telegram-to-metatrader-using-ai/releases/tag/release)
 
+Download latest version of Signal.Copier.Bridge.Setup.exe and click to install it.
 
 ---
 
