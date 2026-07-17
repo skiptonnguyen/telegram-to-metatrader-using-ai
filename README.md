@@ -6,6 +6,12 @@ This self-hosted solution uses AI to understand trading signals in **any format 
 
 It also provides advanced settings for symbol mapping, risk management, signal customization, and many other options, giving you full control over how your trading signals are processed and executed.
 
+[Watch the demo](https://www.youtube.com/watch?v=3x32l6uWxKA)
+
+<a href="https://www.youtube.com/watch?v=3x32l6uWxKA" target="_blank">
+  <img src="https://img.youtube.com/vi/3x32l6uWxKA/maxresdefault.jpg" alt="Watch the demo">
+</a>
+
 ---
 
 # Requirements
